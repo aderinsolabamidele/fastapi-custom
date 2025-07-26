@@ -42,11 +42,6 @@ The key features are:
 
 
 
-<a href="https://fastapi.tiangolo.com/fastapi-people/#sponsors" class="external-link" target="_blank">Other sponsors</a>
-
-## Opinions
-
-
 
 
 
